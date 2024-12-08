@@ -35,10 +35,14 @@ Design personalized prevention strategies for high-risk individuals.
    - Checking the distrubution of Health Score against the target variable
 
 3. **Data Visualization**  
-   - The distribution target variable to show  unbalanced data with a total of 277561 for class 0, while for class 1 it has a total of 136207.
-   - ![image](https://github.com/user-attachments/assets/2448c35f-21b3-49ef-a744-c5e021676eb5)
+   - The distribution target variable to show unbalanced data with a total of 277561 for class 0, while for class 1 it has a total of 136207.
+     ![image](https://github.com/user-attachments/assets/2448c35f-21b3-49ef-a744-c5e021676eb5)
 
+   - low income shows that there is a greater chance of being at risk of chronic medical conditions
+     ![image](https://github.com/user-attachments/assets/4e6aefd0-184d-453c-bd21-0d61eb793983)
 
+   - Health score is very important in determining individuals who are affected by chronic medical conditions. At a score of 0, all individuals do not have chronic medical conditions, while at a score of 4, all individuals have chronic medical conditions, while at scores of 1, 2 and 3, only a few individuals have chronic medical conditions.
+     ![image](https://github.com/user-attachments/assets/18b781fe-5e48-4f63-8bdb-99a337379a76)
 
 4. **Recommendation**
 
