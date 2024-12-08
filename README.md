@@ -22,7 +22,7 @@ Design personalized prevention strategies for high-risk individuals.
 - **Dataset**: Dataset used in the analysis https://www.kaggle.com/datasets/anthonytherrien/depression-dataset   
 - **Visualisasi**: Graphs to support data analysis.  
 
-## 📊 Fitur Utama  
+## 📊 Key Features  
 1. **Data Preprocessing**
    - Data Understanding
    - Data Cleaning
@@ -40,7 +40,8 @@ Design personalized prevention strategies for high-risk individuals.
 
 
 
-4. **Rekomendasi**  
+4. **Rekomendasi**
+
   1. Focus on Low-Income Segments
     * Strategy:
       Prioritize low-income individuals in prevention programs, such as providing subsidized or free healthcare services.
