@@ -41,17 +41,18 @@ Design personalized prevention strategies for high-risk individuals.
 
 
 4. **Recommendation**
-1. Focus on Low-Income Segments
+
+* Focus on Low-Income Segments
     * Strategy:
       Prioritize low-income individuals in prevention programs, such as providing subsidized or free healthcare services.
     * Operational Recommendations:
       Launch health education programs and regular check-ups for individuals from low-income groups.
-2. Improve Health Scores through Preventive Programs
+* Improve Health Scores through Preventive Programs
     * Strategy:
       Identify individuals with low health scores and offer data-based interventions, such as exercise programs, diets, or regular health check-ups.
     * Operational Recommendations:
       Establish partnerships with gyms, nutritionists, or health platforms to support customers in improving their health scores.
-3. Promote a Healthy Lifestyle
+* Promote a Healthy Lifestyle
     * Strategy:
       A healthy lifestyle campaign, such as reducing smoking and alcohol consumption, and increasing exercise.
     * Operational Recommendations:
