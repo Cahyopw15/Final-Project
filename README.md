@@ -1,7 +1,7 @@
 # Predicting the Risk Probability of Developing Chronic Medical Conditions from a Depression Dataset
 _Final Project for Data Science_
 
-## 📜 Deskripsi  
+## 📜 Description 
 **Business Problem:**
 Healthcare providers face increasing challenges in managing the growing number of patients with chronic medical conditions. Prevention is more cost-effective than treatment, but identifying individuals at high risk before symptoms manifest is difficult due to the complex interplay of lifestyle, socio-economic, and genetic factors.
 
@@ -9,15 +9,15 @@ Healthcare providers face increasing challenges in managing the growing number o
 Predict the likelihood of developing chronic medical conditions based on individual attributes
 Design personalized prevention strategies for high-risk individuals.  
 
-## 🛠️ Teknologi yang Digunakan  
-- **Python**: Bahasa pemrograman utama.  
+## 🛠️ Tools  
+- **Python**: Major programming languages.  
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, LabelEncoder, variance_inflation_factor, train_test_split,
                  StandardScaler, accuracy_score, classification_report, confusion_matrix, make_scorer,
                  LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, XGBClassifier, KNeighborsClassifier,
                  GaussianNB, GridSearchCV, cross_val_score  
 - **Jupyter Notebook**: For development and documentation of analysis.  
 
-## 📂 Struktur Proyek  
+## 📂 Project Structure 
 - `FP_DS27_CahyoPrasetiyoWibowo.ipynb`: The main notebook contains analysis and results.  
 - **Dataset**: Dataset used in the analysis https://www.kaggle.com/datasets/anthonytherrien/depression-dataset   
 - **Visualisasi**: Graphs to support data analysis.  
@@ -30,11 +30,15 @@ Design personalized prevention strategies for high-risk individuals.
    - Feature Selection  
 
 2. **Analisis Eksplorasi Data (EDA)**  
-   - Checking the distribution of target variable data "Chronic Medical Condition".  
-   - Mengidentifikasi area dengan tingkat kebisingan tinggi.  
+   - Checking the distribution of target variable data "Chronic Medical Condition".
+   - Checking the distribution of Income against the target variable
+   - Checking the distrubution of Health Score against the target variable
 
 3. **Visualisasi Data**  
-   - Menyajikan temuan dalam bentuk grafik untuk mempermudah interpretasi.  
+   - The distribution target variable to show  unbalanced data with a total of 277561 for class 0, while for class 1 it has a total of 136207.
+   - ![image](https://github.com/user-attachments/assets/2448c35f-21b3-49ef-a744-c5e021676eb5)
+
+
 
 4. **Rekomendasi**  
   1. Focus on Low-Income Segments
