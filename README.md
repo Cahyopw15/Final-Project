@@ -18,7 +18,7 @@ Design personalized prevention strategies for high-risk individuals.
 - **Jupyter Notebook**: For development and documentation of analysis.  
 
 ## 📂 Project Structure 
-- `FP_DS27_CahyoPrasetiyoWibowo.ipynb`: The main notebook contains analysis and results.  
+- `Notebook Depresion Classifcation.ipynb`: The main notebook contains analysis and results.  
 - **Dataset**: Dataset used in the analysis https://www.kaggle.com/datasets/anthonytherrien/depression-dataset   
 - **Visualisasi**: Graphs to support data analysis.  
 
